@@ -1,0 +1,32 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "StarLith"
+  },
+  "metadata": {
+    "description": "Agent skills that came from real repeated work: documentation and versioning, supply-chain and agent security, design direction."
+  },
+  "plugins": [
+    {
+      "name": "docs-and-versioning",
+      "source": "./plugins/docs-and-versioning",
+      "description": "Role-based docs/ structure and a versioning discipline driven by what a user can observe.",
+      "version": "1.0.0",
+      "category": "workflow"
+    },
+    {
+      "name": "secure-repository-dependency-auditor",
+      "source": "./plugins/secure-repository-dependency-auditor",
+      "description": "Static audit before installing packages or running unfamiliar repositories, including attacks aimed at the AI agent itself.",
+      "version": "1.0.0",
+      "category": "security"
+    },
+    {
+      "name": "design",
+      "source": "./plugins/design",
+      "description": "Base design procedure for any visual output, so the result carries a deliberate direction instead of reading as AI-generated.",
+      "version": "1.0.0",
+      "category": "design"
+    }
+  ]
+}

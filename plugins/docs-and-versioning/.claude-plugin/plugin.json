@@ -1,0 +1,9 @@
+{
+  "name": "docs-and-versioning",
+  "version": "1.0.0",
+  "description": "Role-based docs/ structure (HANDOFF, ROADMAP, CHANGELOG, ARCHITECTURE, decisions) and a versioning discipline driven by what a user can observe.",
+  "author": { "name": "StarLith" },
+  "repository": "https://github.com/SamuiRo/AgentSkills",
+  "license": "MIT",
+  "keywords": ["documentation", "versioning", "changelog", "semver"]
+}

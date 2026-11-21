@@ -1,0 +1,9 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "Base design procedure for websites, app UI, dashboards, slides and graphics, with a pattern gate that keeps generated-looking UI from growing unnoticed.",
+  "author": { "name": "StarLith" },
+  "repository": "https://github.com/SamuiRo/AgentSkills",
+  "license": "MIT",
+  "keywords": ["design", "ui", "frontend", "review"]
+}

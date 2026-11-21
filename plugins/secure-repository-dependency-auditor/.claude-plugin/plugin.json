@@ -1,0 +1,9 @@
+{
+  "name": "secure-repository-dependency-auditor",
+  "version": "1.0.0",
+  "description": "Security-first audit before installing packages or running unfamiliar repositories: lifecycle scripts, typosquatting, release-age cooldown, and attacks aimed at the AI agent itself.",
+  "author": { "name": "StarLith" },
+  "repository": "https://github.com/SamuiRo/AgentSkills",
+  "license": "MIT",
+  "keywords": ["security", "supply-chain", "npm", "prompt-injection"]
+}
