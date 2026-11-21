@@ -20,12 +20,16 @@ Installing other people's skills rarely makes an agent better: it receives rules
 
 ```
 /plugin marketplace add SamuiRo/AgentSkills
-/plugin install docs-and-versioning@agent-skills
-/plugin install secure-repository-dependency-auditor@agent-skills
-/plugin install design@agent-skills
+/plugin install docs-and-versioning@starlith-skills
+/plugin install secure-repository-dependency-auditor@starlith-skills
+/plugin install design@starlith-skills
 ```
 
 Install only the ones you need.
+
+### Claude desktop app
+
+Settings → Plugins → Add marketplace → `SamuiRo/AgentSkills` → Sync, then enable the plugins you want. Alternatively, upload a single skill folder as a zip in the skills settings.
 
 ### Claude Code (plain skill folder)
 
